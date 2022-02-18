@@ -6,6 +6,7 @@ Maya Blackburn
 Claire Emch
 
 Elio Tannous
+
 =======
 Hello my name is Claire
 
@@ -16,10 +17,10 @@ HI!
 
 Poem by Elio:
 
-Roses are red
+*Roses are red*
 	
-			violets are blue
+			*violets are blue*
 
-I forget when
+*I forget when*
 
-			this assignment is due
+			*this assignment is due*
