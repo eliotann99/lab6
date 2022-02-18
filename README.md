@@ -1,6 +1,5 @@
 # lab6
-<<<<<<< HEAD
-Group Members:
+# Group Members:
 Maya Blackburn
 Claire Emch
 Elio Tannous
@@ -11,9 +10,13 @@ HI!
 
 
 =======
+
 Poem by yours truly Elio:
 
 Roses are red
+
 	violets are blue
+
 I forget when
+
 	this assignment is due
