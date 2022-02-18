@@ -1,11 +1,11 @@
 # lab6
 # Group Members:
 
-Maya Blackburn
+**Maya Blackburn**
 
-Claire Emch
+**Claire Emch**
 
-Elio Tannous
+**Elio Tannous**
 
 =======
 
@@ -25,3 +25,7 @@ Poem by Elio:
 **I forget when**
 
 &ensp; &ensp; &ensp;  **this assignment is due**
+
+
+
+![image](https://media.giphy.com/media/GWbgn9RqVfk1bHQBr1/giphy.gif)
