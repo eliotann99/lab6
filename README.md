@@ -20,8 +20,8 @@ Poem by Elio:
 
 **Roses are red**
 
-&ensp; **violets are blue**
+&ensp; &ensp; &ensp;  **violets are blue**
 
 **I forget when**
 
-&ensp; **this assignment is due**
+&ensp; &ensp; &ensp;  **this assignment is due**
