@@ -2,7 +2,18 @@
 <<<<<<< HEAD
 Group Members:
 Maya Blackburn
+Claire Emch
+Elio Tannous
 =======
 Hello my name is Claire
->>>>>>> d2af7c3fb929295ad1267043b22a2e1600e3c9db
+
 HI!
+
+
+=======
+Poem by yours truly Elio:
+
+Roses are red
+	violets are blue
+I forget when
+	this assignment is due
