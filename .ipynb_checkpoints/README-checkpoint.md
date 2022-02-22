@@ -7,7 +7,15 @@
 
 **Elio Tannous**
 
-=======
+---------------------------------------------------------------------------
+
+**Description of the code:**
+
+The code takes in the user's name. Then, the code asks the user to enter any string and it returns the number of characters used in that string to the user while ignoring spaces and null characters.
+
+
+---------------------------------------------------------------------------
+
 
 Hello my name is Claire
 
@@ -42,8 +50,3 @@ Today is TWOsday
 -Claire
 
 
----------------------------------------------------------------------------
-
-**Description of the code:**
-
-The code takes in the user's name. Then, the code asks the user to enter any string and it returns the number of characters used in that string to the user while ignoring spaces and null characters.
